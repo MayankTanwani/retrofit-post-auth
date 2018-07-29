@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shoocal</string>
+    <string name="requested_for_demo">Requested For Demo</string>
+    <string name="already_requested">Already Requested</string>
+    <string name="success">Success</string>
+    <string name="please_wait">You have already requested for demo. \nPlease wait</string>
+</resources>
